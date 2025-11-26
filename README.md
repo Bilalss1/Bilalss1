@@ -38,7 +38,7 @@ Email Me 👉 **bilaalshaafiq@gmail.com** for collaboration, research, or projec
 </div>
 
 ## 🌐 Socials:
-[![Website](https://img.shields.io/badge/Website-CellToCode-blue?logo=google-chrome&logoColor=white)](https://celltocode.com/)
+[![Website](https://img.shields.io/badge/CellToCode-0A0A0A?logo=google-chrome&logoColor=white)](https://celltocode.com/)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/CelltoCode) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/CelltoCode) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bilalshafiq) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bilaalshaafiq@gmail.com)
 
 
